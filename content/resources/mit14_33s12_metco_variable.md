@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This file contains information regarding The Impact of Metco on MCAS
   Test Scores: An OLS and 2SLS analysis. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-33-economics-research-and-communication-spring-2012/7ec98c1b6ef77b993cbf6e8f8040dd63_MIT14_33S12_Metco_variable.pdf
+file: /media/courses/14-33-economics-research-and-communication-spring-2012/7ec98c1b6ef77b993cbf6e8f8040dd63_MIT14_33S12_Metco_variable.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Empirical Exercises
+parent_type: CourseSection
 resourcetype: Document
 title: 'The Impact of Metco on MCAS Test Scores: An OLS and 2SLS analysis'
 uid: 7ec98c1b-6ef7-7b99-3cbf-6e8f8040dd63

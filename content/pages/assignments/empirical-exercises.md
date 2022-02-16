@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: de670f3e-1b59-ae3f-97ab-b1e56ce79181
 title: Empirical Exercises
 uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
