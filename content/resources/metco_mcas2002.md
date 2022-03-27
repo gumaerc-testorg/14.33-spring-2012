@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Empirical Exercises
 parent_type: CourseSection
+parent_uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 resourcetype: Other
 title: metco_mcas2002.dta
 uid: 9dc7505e-3ecc-a101-65f0-d692332f0a34

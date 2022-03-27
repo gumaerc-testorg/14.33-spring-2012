@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bdae3bb1-50fc-e0cc-511c-8d31760b9b57
 resourcetype: Document
 title: 'Commands to Cover During Stata Session '
 uid: 21a3db9b-5d3d-9d80-55fe-7f54b29b5287

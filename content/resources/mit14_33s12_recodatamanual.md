@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Empirical Exercises
 parent_type: CourseSection
+parent_uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 resourcetype: Document
 title: Download Center User Guide
 uid: 8c83f4e8-e1fe-4de0-18f6-65e18efc39e6

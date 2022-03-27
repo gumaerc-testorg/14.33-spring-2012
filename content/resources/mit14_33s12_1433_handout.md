@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bdae3bb1-50fc-e0cc-511c-8d31760b9b57
 resourcetype: Document
 title: ' Research and Communication in Economics: Resources'
 uid: 032b4a1e-3748-8fce-c6bf-059576ce638e

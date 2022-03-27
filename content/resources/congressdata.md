@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Empirical Exercises
 parent_type: CourseSection
+parent_uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 resourcetype: Other
 title: CongressData.dta
 uid: 509a4d52-a4ad-2d97-1cc2-5aa243980bd8

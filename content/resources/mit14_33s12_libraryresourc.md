@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bdae3bb1-50fc-e0cc-511c-8d31760b9b57
 resourcetype: Document
 title: 'Library Resources for Research and Communication in Economics '
 uid: 5cd1490f-fa85-7f19-31d1-77ee9dcda328

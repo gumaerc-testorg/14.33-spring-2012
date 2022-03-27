@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Empirical Exercises
 parent_type: CourseSection
+parent_uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 resourcetype: Document
 title: Comments on Empirical Exercises
 uid: 7faa1596-6885-ea94-ef29-af3228c4a5f2

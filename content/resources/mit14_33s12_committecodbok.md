@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Empirical Exercises
 parent_type: CourseSection
+parent_uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 resourcetype: Document
 title: FORMAT SUMMARY FOR MEMBER DATA
 uid: 27e329c5-fd47-c259-5950-1224cb172932

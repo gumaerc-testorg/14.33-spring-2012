@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Empirical Exercises
 parent_type: CourseSection
+parent_uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 resourcetype: Other
 title: Metco_district_enrollment.dta
 uid: 5fa91f5c-55bd-6a17-8267-71733398097f
