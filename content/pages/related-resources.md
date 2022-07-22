@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to useful resources for economics research.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 61ed4707-86b0-5e46-ea46-3d007d5458bf
 ---

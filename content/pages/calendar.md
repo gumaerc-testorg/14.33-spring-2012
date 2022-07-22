@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course activities and
+  assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 56416b2e-289b-1e91-6277-1af7e2563e31
 ---
@@ -77,7 +81,7 @@ Writing an economics paper
 
 Using the library
 
-[Library resources for research and communication in economics]({{< baseurl >}}/pages/study-materials)
+{{% resource_link bdae3bb1-50fc-e0cc-511c-8d31760b9b57 "Library resources for research and communication in economics" %}}
 
 
 {{< tdclose >}}
@@ -103,7 +107,7 @@ Short paper due
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Preliminary presentations+
+Preliminary presentations{{< sup "\+" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -115,7 +119,7 @@ Preliminary presentations+
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Preliminary presentations+ (cont.)
+Preliminary presentations{{< sup "\+" >}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -169,7 +173,7 @@ Main paper due
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Presentations\*
+Presentations{{< sup "\*" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -181,7 +185,7 @@ Presentations\*
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Presentations\* (cont.)
+Presentations{{< sup "\*" >}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -193,7 +197,7 @@ Presentations\* (cont.)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Presentations\* (cont.)
+Presentations{{< sup "\*" >}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -205,7 +209,7 @@ Presentations\* (cont.)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Presentations\* (cont.)
+Presentations{{< sup "\*" >}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -217,7 +221,7 @@ Presentations\* (cont.)
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Presentations\* (cont.)
+Presentations{{< sup "\*" >}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -229,7 +233,7 @@ Presentations\* (cont.)
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Presentations\* (cont.)
+Presentations{{< sup "\*" >}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -251,6 +255,6 @@ Main rewrite due
 
 {{< tableclose >}}
 
-+You will be required to attend one of the two preliminary presentation days.
+{{< sup "\+" >}}You will be required to attend one of the two preliminary presentation days.
 
-\*You will be required to attend three of the six presentation days.
+{{< sup "\*" >}}You will be required to attend three of the six presentation days.
