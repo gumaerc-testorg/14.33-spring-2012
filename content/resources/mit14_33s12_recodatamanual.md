@@ -3,7 +3,8 @@ content_type: resource
 description: User guide for the Data Download Center, which publishes recipient reported
   data for contract, grant and loan awards made under the American Recovery and Reinvestment
   Act of 2009.
-file: /courses/14-33-economics-research-and-communication-spring-2012/8c83f4e8e1fe4de018f665e18efc39e6_MIT14_33S12_RecoDataManual.pdf
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/8c83f4e8e1fe4de018f665e18efc39e6_MIT14_33S12_RecoDataManual.pdf
+file_size: 563034
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

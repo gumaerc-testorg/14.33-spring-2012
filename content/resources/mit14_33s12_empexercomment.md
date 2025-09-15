@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This file contains information regarding Comments on Empirical Exercises '
-file: /courses/14-33-economics-research-and-communication-spring-2012/7faa15966885ea94ef29af3228c4a5f2_MIT14_33S12_EmpExerComment.pdf
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/7faa15966885ea94ef29af3228c4a5f2_MIT14_33S12_EmpExerComment.pdf
+file_size: 73407
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

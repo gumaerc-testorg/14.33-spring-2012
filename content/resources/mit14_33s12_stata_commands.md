@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains information regarding Commands to Cover During Stata
   Session.
-file: /courses/14-33-economics-research-and-communication-spring-2012/21a3db9b5d3d9d8055fe7f54b29b5287_MIT14_33S12_Stata_commands.pdf
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/21a3db9b5d3d9d8055fe7f54b29b5287_MIT14_33S12_Stata_commands.pdf
+file_size: 281601
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

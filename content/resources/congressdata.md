@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file of Congressional Committees and Election Results.
-file: /courses/14-33-economics-research-and-communication-spring-2012/509a4d52a4ad2d971cc25aa243980bd8_CongressData.dta
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/509a4d52a4ad2d971cc25aa243980bd8_CongressData.dta
+file_size: 602640
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

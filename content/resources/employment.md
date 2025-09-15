@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Employment data for an empirical exercise on recovery spending.
-file: /courses/14-33-economics-research-and-communication-spring-2012/92c0b870222b135b204582528f47b229_employment.dta
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/92c0b870222b135b204582528f47b229_employment.dta
+file_size: 127064
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

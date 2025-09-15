@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file of Recovery data.
-file: /courses/14-33-economics-research-and-communication-spring-2012/6fb3138d7eb8f78e18ff89734eece5b0_Recoverydata.dta
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/6fb3138d7eb8f78e18ff89734eece5b0_Recoverydata.dta
+file_size: 35152832
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

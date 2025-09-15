@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file of Metro district enrollment data.
-file: /courses/14-33-economics-research-and-communication-spring-2012/5fa91f5c55bd6a17826771733398097f_Metco_district_enrollment.dta
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2012/5fa91f5c55bd6a17826771733398097f_Metco_district_enrollment.dta
+file_size: 2967
 file_type: application/octet-stream
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
