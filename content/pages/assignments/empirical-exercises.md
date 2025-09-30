@@ -12,7 +12,7 @@ parent_uid: de670f3e-1b59-ae3f-97ab-b1e56ce79181
 title: Empirical Exercises
 uid: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
 ---
-The following files require the program Stata® to use them. The .dta files: © Source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information visit the [Fair Use FAQ](https://mitocw.zendesk.com/hc/en-us/articles/4414756000539-What-is-the-Code-of-Best-Practices-in-Fair-Use-for-OpenCourseWare-) on the OCW site. 
+The following files require the program Stata® to use them. The .dta files: © Source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information visit the {{% resource_link "b4c6cb20-8683-4f9d-8855-995547d32d1f" "Fair Use FAQ" %}} on the OCW site. 
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 DOCUMENTS
@@ -32,7 +32,7 @@ Stata® FILES
 **Topic #2: Recovery Spending**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-[Recovery Data Manual (PDF)](https://www.runtime.org/howto_datarecovery.pdf)
+{{% resource_link "61fb6f65-6258-4d4d-9c19-6cd09d7ffb07" "Recovery Data Manual (PDF)" %}}
 
 {{% resource_link 27e329c5-fd47-c259-5950-1224cb172932 "Congressional Committees and Elections Codebook (PDF)" %}}
 
