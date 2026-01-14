@@ -15,7 +15,7 @@ Research and Writing Resources
 
 {{% resource_link 032b4a1e-3748-8fce-c6bf-059576ce638e "Research and Communication in Economics: Resources. (PDF)" %}} (Courtesy of Katherine McNeil. Used with permission.)
 
-Neugeboren, Robert, and Mireille Jacobson. {{% resource_link "220764a2-3d9c-482a-b3ae-e8b438655670" "\"Writing Economics.\" (PDF)" %}} The President and Fellows of Harvard University, 2001.
+Neugeboren, Robert, and Mireille Jacobson. ["Writing Economics." (PDF)](https://writingproject.fas.harvard.edu/files/hwp/files/writingeconomics.pdf) The President and Fellows of Harvard University, 2001.
 
 Stata® Tools
 ------------
